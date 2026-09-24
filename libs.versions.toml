@@ -27,7 +27,7 @@ vaultApiVersion = "1.7" #https://github.com/MilkBowl/VaultAPI
 infPointsVersion = "3.0.0" #https://central.sonatype.com/artifact/io.github.wyne10/infpoints-api
 connectionSourceVersion = "2.0.0" #https://central.sonatype.com/artifact/io.github.wyne10/connectionsource-api
 mobMoneyVersion = "1.0.1" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bigcraft/MobMoney-api/
-customItemsVersion = "2.2.24" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bigcraft/CustomItems-api/
+customItemsVersion = "3.0.0" #https://central.sonatype.com/artifact/io.github.wyne10/infpoints-api
 antiRelogVersion = "3.0.11" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/ru/leymooo/antirelog/
 worldEventsVersion = "1.3.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/nevermined/WorldEvents-api/
 worldEventsNotificationsVersion = "1.2.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/nevermined/WorldEvents-Notifications-api/
@@ -86,7 +86,7 @@ vaultApi = { module = "com.github.MilkBowl:VaultAPI", version.ref = "vaultApiVer
 infPoints = { module = "io.github.wyne10:infpoints-api", version.ref = "infPointsVersion" }
 connectionSource = { module = "io.github.wyne10:connectionsource-api", version.ref = "connectionSourceVersion" }
 mobMoney = { module = "org.bigcraft:MobMoney-api", version.ref = "mobMoneyVersion" }
-customItems = { module = "org.bigcraft:CustomItems-api", version.ref = "customItemsVersion" }
+customItems = { module = "io.github.wyne10:customitems-api", version.ref = "customItemsVersion" }
 antiRelog = { module = "ru.leymooo:antirelog", version.ref = "antiRelogVersion" }
 worldEvents = { module = "org.nevermined:WorldEvents-api", version.ref = "worldEventsVersion" }
 worldEventsNotifications = { module = "org.nevermined:WorldEvents-Notifications-api", version.ref = "worldEventsNotificationsVersion" }
