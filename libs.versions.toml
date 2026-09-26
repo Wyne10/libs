@@ -24,7 +24,7 @@ abstractMenusVersion = "1.16" #https://abstractmenus.github.io/docs/dev/general.
 znpcPlusVersion = "2.1.0-SNAPSHOT" #https://github.com/Pyrbu/ZNPCsPlus/wiki/API
 vaultApiVersion = "1.7" #https://github.com/MilkBowl/VaultAPI
 
-infPointsVersion = "3.0.0" #https://central.sonatype.com/artifact/io.github.wyne10/infpoints-api
+infPointsVersion = "3.0.1" #https://central.sonatype.com/artifact/io.github.wyne10/infpoints-api
 connectionSourceVersion = "2.0.0" #https://central.sonatype.com/artifact/io.github.wyne10/connectionsource-api
 mobMoneyVersion = "1.0.1" #https://central.sonatype.com/artifact/io.github.wyne10/mobmoney-api
 customItemsVersion = "3.0.0" #https://central.sonatype.com/artifact/io.github.wyne10/customitems-api
