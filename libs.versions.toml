@@ -31,7 +31,7 @@ customItemsVersion = "3.0.0" #https://central.sonatype.com/artifact/io.github.wy
 antiRelogVersion = "3.0.11" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/ru/leymooo/antirelog/
 worldEventsVersion = "1.3.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/nevermined/WorldEvents-api/
 worldEventsNotificationsVersion = "1.2.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/nevermined/WorldEvents-Notifications-api/
-lootPoolVersion = "2.8.4" #https://central.sonatype.com/artifact/io.github.wyne10/lootpool-api
+lootPoolVersion = "2.9.1" #https://central.sonatype.com/artifact/io.github.wyne10/lootpool-api
 stormVersion = "1.2.0" #https://central.sonatype.com/artifact/io.github.wyne10/storm-api
 teleportVersion = "1.1.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bigcraft/BigTeleport-api/
 
